@@ -6,7 +6,7 @@ title: "Santo do Monte"
 percent: "11%"
 recommendation: "Kalt servieren"
 featured: true
-variety: "Grun (Vinho Verde)"
+"Vinho Verde"
 image: "/images/wines/santo-do-monte-green.png"
 ---
 
