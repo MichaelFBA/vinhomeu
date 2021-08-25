@@ -11,4 +11,4 @@ featured: true
 image: "/images/wines/vale-da-raposa-white.png"
 ---
 
-Dies war einer der ersten Douro-Weißweine, die von der Familie Alves de Sousa hergestellt wurden, die begann, sich den lokalen Trauben zuzuwenden, um hervorragende Weine zu produzieren. Goveio und Malvasia Fina von Vale da Raposa sind eine großartige Kombination und ein gutes Beispiel für den unterirdischen Charakter der portugiesischen Weißweinrebsorten und den einzigartigen, scharfen Geschmack, den nur das Klima des Douro-Tals ihren Trauben verleihen kann.
+Dies war einer der ersten Douro-Weißweine, die von der Familie Alves de Sousa produziert wurden. Sie wandten sich den  lokalen Trauben zu  und begannen hervorragende Weine zu produzieren. Vale da Raposa ist eine großartige Kombination aus dem "underground" Charakter der portugiesischen Weißwein-Rebsorten - hier Gouveio und Malvasia Fina -  und dem einzigartigen, kräftigen Geschmack, den nur das Klima des Douro-Tals den Trauben verleihen kann.
