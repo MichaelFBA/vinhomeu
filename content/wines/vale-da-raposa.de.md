@@ -2,11 +2,10 @@
 date: 2021-07-04T14:29:50+02:00
 draft: false
 
-title: "Vale da Raposa"
+title: "Vale da Raposa (weiss)"
 year: 2018
 percent: "13%"
 recommendation: ""
-variety: "Weiss"
 featured: true
 image: "/images/wines/vale-da-raposa-white.png"
 ---
