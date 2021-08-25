@@ -6,11 +6,12 @@ image: "/images/andre.png"
 imageSingle: "/images/about-bg.jpg"
 ---
 
-Ich habe zu viel Geld für einen enttäuschenden Wein in einem Weinladen bezahlt. Ich vermisse die Leichtigkeit, eine Flasche Wein zu greifen und weiß, dass es nicht enttäuschend sein wird. In Portugal ist das praktisch der gesunde Menschenverstand, aber ich bin nicht mehr in Portugal.
+... war ich im Weinladen, nur um hinterher festzustellen, dass ich viel zu Geld für einen mittelprächtigen Wein gezahlt hatte. Da fiel mir auf, wie sehr ich das Gefühl von Leichtigkeit vermisse, einfach eine Flasche aus dem Regal zu nehmen und mir sicher sein zu können, dass ich nicht enttäuscht werde. In Portugal ist das einfach, aber ich lebe nun schon lange nicht mehr dort.
 
-Berlin hat tolle Weinläden, aber das möchte ich noch einfacher machen. Also habe ich Vinho Meu gegründet, wo ich eine Handvoll großartiger portugiesischer Weine kuratieren und präsentieren werde, nicht mehr und nicht weniger, gerade genug.
+Berlin hat zwar tolle Weinläden, aber ich denke, es könnte noch leichter sein, einen guten Wein zu finden. Also habe ich Vinho Meu gegründet, um eine Handvoll großartiger portugiesischer Weine nach Deutschland zu bringen.
 
-Das Leben ist zu kurz für sh°t Wein und ich bin hier, um Ihnen dabei zu helfen.
+Das Leben ist zu kurz, um Fehlentscheidungen beim Wein Kaufen zu machen.  
+
 
  <!--more-->
 
