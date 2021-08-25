@@ -6,7 +6,6 @@ title: "Convento da Vila Colheita"
 year: 2017
 percent: "13.5%"
 recommendation: "Trinken bei 15-17°C"
-variety: Red
 featured: true
 image: "/images/wines/convento-da-vila-colheita-red.png"
 ---
