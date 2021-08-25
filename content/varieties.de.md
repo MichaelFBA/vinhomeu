@@ -7,11 +7,12 @@ image: "/images/region-portugal-bg.jpg"
 
 # Vinho Verde
  
-Verde steht für Grün. Ja grün, es gibt einen grünen Wein und er wächst in Minho, einer Region ganz im Norden Portugals, die sich wunderbar auf "vinho" reimt und lustigerweise eine der grünsten im ganzen Land ist.
+Verde steht für grün. Ja, grün! Es gibt einen grünen Wein und er wird in Minho angebaut, einer Region ganz im Norden Portugals. Minho reimt sich wunderbar  auf "vinho" und passenderweise  ist diese Region eine der grünsten im ganzen Land. Kein Wunder also, dass hier die DOC-Region* der Vinho-Verde-Trauben beheimatet, die es nirgendwo sonst auf der Welt gibt.
 
-Kein Wunder also, dass hier die DOC-Region der Vinho Verde-Trauben beheimatet ist, die Sie sonst nirgendwo auf der Welt finden. Früher hatte der Wein dank eines Fehlers im Fermentationsprozess mehr "Blasen" als üblich.
+Im Gärungsprozess unterlief der Legende nach einem Winzer eines Tages wohl ein Fehler, sodass der Wein spritziger wurde als geplant. Doch letztlich ist dieser Fehler zu einer portugiesischen Erfolgsgeschichte geworden.  diesen Fehler sehr gemocht und zur Erfolgsgeschichte geworden. Aber seid nicht getäuscht: Es ist kein Sekt und kein Prosecco! Vinho Verde trinkt man am besten mit seinen Liebsten und im Sommer auf Eis.
 
-Es endet damit, dass die Leute diesen Fehler sehr mochten! Aber täuschen Sie sich nicht: Es ist nicht prickelnd, es ist kein Prosecco, es ist Vinho Verde und es wird am besten mit den Lieben konsumiert, im Sommer, wenn Sie dürfen auf Eis!
+*DOC (Denominação de Origem Controlada) bedeutet, dass ausschließlich einheimische Rebsorten benutzt wurden.
+
 
 # Rose
  
