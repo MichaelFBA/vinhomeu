@@ -11,4 +11,4 @@ featured: true
 image: "/images/wines/zimbro-red.png"
 ---
 
-Douro in voller Kraft! Dieser dicke, tintofarbene Tinto aus den lokalen Touriga Nacional, Tinta Roriz und Touriga Francesa gehört laut vivino.com zu den Top 7% der besten Weine der Welt und ist ein großartiges Beispiel für die außergewöhnlichen Weine dieser Region. Dieses familiengeführte Weingut ist reine Winzerkunst, die Sie unbedingt besuchen sollten. Genießen Sie ihn am besten mit Freunden und einem schönen Teller Pasta, rotem Fleisch oder Ihrem Lieblingskäse.
+Douro in voller Kraft! Dieser dicke, tintige Tinto aus den lokalen Sorten Touriga Nacional, Tinta Roriz und Touriga Francesa ist ein großartiges Beispiel für die außergewöhnlichen Weine dieser Region. Doch erstaunlicher Weise ist die meisterhafte Winzerkunst dieses Familienbetriebs noch wenig bekannt. Genießt ihn am besten mit Freunden und einem schönen Teller Pasta, Fleisch oder zu deinem Lieblingskäse.
