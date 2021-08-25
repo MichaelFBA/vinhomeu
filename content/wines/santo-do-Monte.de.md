@@ -10,4 +10,5 @@ variety: "Grun (Vinho Verde)"
 image: "/images/wines/santo-do-monte-green.png"
 ---
 
-Dieser "Saint of the Hill" verkörpert die Frische, die ein guter Vinho Verde immer vermitteln sollte: einen langen Sommerabend in einer Zitrusplantage. Es ist stachelig, frisch und wird am besten kalt serviert, sogar auf Eis, wenn Sie dürfen. Dies sollte Ihr neuer Aperitivo sein, Ihr neuer "Sekt auf Eis", der Wein, den jeder von Ihnen zu seinen Dinnerpartys, Mittagessen oder Grillabenden mitbringen möchte.
+Der Heilige des Hügels, so sein Name verkörpert die Frische, die ein guter Vinho Verde immer mitbringen  sollte und lässt an einen langen Sommerabend im ein Zitrusgarten denken.
+Zeit den “Sekt auf Eis” abzulösen. Dein neuer Aperitivo  begleitet dich auf  Dinnerpartys, an Mittagessen oder bei BBQs: "Verde auf Eis", Prost!
